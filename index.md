@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="avatar" align="left">
-  <img class="profile-img" src="assets/img/avatar-01.png" width="200" />
+  <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
 <!---* <img class="circular-img" align="left" width=260 src="assets/img/avatar-01.png"/> *--->
 
