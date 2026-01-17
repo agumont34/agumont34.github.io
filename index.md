@@ -18,6 +18,7 @@ The focus of my current research is on energy-efficient and high-performance emb
 <b>Contact information:</b>
 
 <br>
+<br>
 LIRMM -- UMR 5506 - CC477
 <br>
 161 rue Ada, 34095 Montpellier Cedex 5 - France
