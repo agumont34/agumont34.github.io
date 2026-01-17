@@ -4,7 +4,7 @@ layout: home
 
 
 <div class="side-by-side">
-  <img src="/assets/img/avatar-01.png" alt="Photo" />
+  <img src="/assets/img/avatar-01.png" alt="Photo" width="240" />
   <div class="text">
     <p>
       Voici un texte descriptif qui s’affiche à côté de l’image.
