@@ -15,6 +15,13 @@ The focus of my current research is on energy-efficient and high-performance emb
 ---
 
 <p align="center">
+Contact information:
+LIRMM -- UMR 5506 - CC477
+161 rue Ada, 34095 Montpellier Cedex 5 - France
+
+Phone: +33 4 67 14 98 28 / Fax: +33 4 67 41 85 00
+Email: first.last@lirmm.fr (without accent in last)
+
   <img width=105 img src="/assets/img/Lirmm-logo.png"/>
   <img width=70 img src="/assets/img/CNRS-logo.jpeg"/>
   <img width=90 img src="/assets/img/UM-logo.png"/>
