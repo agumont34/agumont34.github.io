@@ -16,6 +16,7 @@ The focus of my current research is on energy-efficient and high-performance emb
 
 <p align="center">
 <b>Contact information:</b>
+
 <br>
 LIRMM -- UMR 5506 - CC477
 <br>
