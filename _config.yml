@@ -10,21 +10,26 @@
 ############################
 
 # Name of website
-title: My amazing website
+title: Abdoulaye Gamatié
 
 # Your name to show in the footer
-author: Some Person
+author: A. Gamatié
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research: "research"
+  Publications: "publications"
+  Service: "service"
+  Students: "students"
+  Teaching: "teaching"
+  #About Me: "aboutme"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
