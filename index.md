@@ -2,6 +2,17 @@
 layout: home
 ---
 
+
+<div class="side-by-side">
+  <img src="/assets/img/avatar-01.png" alt="Photo" />
+  <div class="text">
+    <p>
+      Voici un texte descriptif qui s’affiche à côté de l’image.
+      Il peut contenir <strong>du Markdown</strong> rendu correctement.
+    </p>
+  </div>
+</div>
+
 <div class="avatar" align="left">
   <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
