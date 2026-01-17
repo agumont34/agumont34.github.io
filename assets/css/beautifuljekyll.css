@@ -771,7 +771,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 2.2rem; /* AG modification */
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    /*font-size: 3.125rem;*/
+    font-size: 2rem; /* AG modification */
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
