@@ -721,8 +721,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
-  /*font-size: 1.2rem; AG modification of main subtitle ? */
+  /*font-size: 1.6875rem;*/
+  font-size: 1.4rem; /* AG modification of main subtitle ? */
   line-height: 1.1;
   display: block;
   font-family: var(--header-font);
