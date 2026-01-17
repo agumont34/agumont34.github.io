@@ -15,9 +15,9 @@ The focus of my current research is on energy-efficient and high-performance emb
 ---
 
 <p align="center">
-  <img width=95 img src="/assets/img/Lirmm-logo.png"/>
+  <img width=105 img src="/assets/img/Lirmm-logo.png"/>
   <img width=70 img src="/assets/img/CNRS-logo.jpeg"/>
-  <img width=80 img src="/assets/img/UM-logo.png"/>
+  <img width=90 img src="/assets/img/UM-logo.png"/>
 </p>
 
 ---
