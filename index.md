@@ -22,12 +22,16 @@ title: Abdoulaye Gamatié
 </div>
 
 
+<br>
+---
 ### Research interests
 - High-performance embedded systems
 - Computer-aided design
 - Energy-driven computing
 - Sustainable computing
 
+<br>
+---
 ### Recent publications
 
 
