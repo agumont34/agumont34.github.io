@@ -32,39 +32,29 @@ title: Abdoulaye Gamatié
 ---
 <h3> Recent publications </h3>
 
-	  <ul>
+- **Abdoulaye Gamatié**, Yuyang Wang and Diego Adrian Valdez Duran.  
+  **Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI.**  
+  *IEEE Transactions on Computers* – [TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta),  
+  In press, pp. 1–14, 2024.  
+  DOI: [10.1109/TC.2024.3500377](https://doi.org/10.1109/TC.2024.3500377)  
+  [[PDF]](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)
 
-	   
-<li align= "justify">
- Abdoulaye Gamatié, Yuyang Wang and Diego Adrian Valdez Duran. <strong> Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI.'</strong>, <span style="font-style: italic;">
-  IEEE Transactions on Computers - <a
-  href="https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta"
-  target="_blank">TC</a></span>, In press, pp.1-14., DOI Bookmark: 10.1109/TC.2024.3500377, 2024.
-<a href="https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1"><img width="16" height="14" src="images/pdf.gif" border="0"></a>
-  </li>
+- **Abdoulaye Gamatié**, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert.  
+  **A model-based approach to addressing energy demand in sustainable urban systems.**  
+  *Sustainable Computing: Informatics and Systems* – [SUSCOM](https://www.computer.org/csdl/journal/su),  
+  vol. 37, 2023.  
+  DOI: [10.1016/j.suscom.2022.100844](https://doi.org/10.1016/j.suscom.2022.100844)  
+  [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755)
 
-	    <li align= "justify">
- Abdoulaye Gamatié, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert. <strong> 'A model-based approach to addressing energy demand in sustainable urban systems.'</strong>, <span style="font-style: italic;">
-  Sustainable Computing : Informatics and Systems - <a
-  href="https://www.computer.org/csdl/journal/su"
-  target="_blank">SUSCOM</a></span>, vol. 37, https://doi.org/10.1016/j.suscom.2022.100844, 2023.
-<a href=https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755"><img width="16" height="14" src="images/pdf.gif" border="0"></a>
-  </li>
-  
-<li align= "justify">
- Marcos De Melo da Silva, Abdoulaye Gamati&eacute;, Gilles Sassatelli,
-   Michael Poss and Michel Robert. <strong> 'Optimization of Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing.'</strong>, <span style="font-style: italic;">
-  IEEE Transactions on Sustainable Computing - <a
-  href="https://www.computer.org/csdl/journal/su"
-  target="_blank">IEEE TSUSC</a></span>, vol. 8, num. 1, doi:
- 10.1109/TSUSC.2022.3197090. March 2023.
-<a href="https://ieeexplore.ieee.org/document/9851957"><img width="16"
- height="14" src="images/pdf.gif" border="0"></a>  <a
-  href="https://www.computer.org/publications/best-paper-award-winners"
-  target="_blank"><strong> <font color="#357EC7">TSUSC Best Paper Award Winner in
- 2023</font> </strong></a> 
-  </li>
-  </ul>
+- Marcos De Melo da Silva, **Abdoulaye Gamatié**, Gilles Sassatelli, Michael Poss and Michel Robert.  
+  **Optimization of Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing.**  
+  *IEEE Transactions on Sustainable Computing* – [IEEE TSUSC](https://www.computer.org/csdl/journal/su),  
+  vol. 8, no. 1, March 2023.  
+  DOI: [10.1109/TSUSC.2022.3197090](https://doi.org/10.1109/TSUSC.2022.3197090)  
+  [[PDF]](https://ieeexplore.ieee.org/document/9851957)  
+  **🏆 TSUSC Best Paper Award Winner 2023**  
+  ([Award link](https://www.computer.org/publications/best-paper-award-winners))
+
 
 
 ---
