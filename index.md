@@ -6,7 +6,9 @@ layout: page
 <div class="avatar" align="left">
   <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
-<!---* <img class="circular-img" align="left" width=260 src="assets/img/avatar-01.png"/> *--->
+
+I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur de Recherche) in the Microelectronics department of  
+[LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
 
 <div class="two-columns">
   <div class="left">
@@ -23,9 +25,6 @@ layout: page
     </p>
   </div>
 </div>
-
-I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur de Recherche) in the Microelectronics department of  
-[LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
 
 ### Research interests
 - High-performance embedded systems
