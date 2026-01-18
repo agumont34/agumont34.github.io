@@ -5,13 +5,13 @@ title: Abdoulaye Gamatié
 
 <br>
 <div style="display:flex; gap:20px;">
-  <div style="flex:30%;">
+  <div style="flex:35%;">
     <div class="avatar" align="center">
-      <img class="profile-img" src="assets/img/avatar-01.png" width="300" />
+      <img class="profile-img" src="assets/img/avatar-01.png" width="290" />
   </div>
   </div>
 
-  <div style="flex:60%;">
+  <div style="flex:55%;">
     <p align="justify">
       I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. 
 	<br>
