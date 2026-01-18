@@ -1,9 +1,10 @@
 ---
 layout: page
+title: Abdoulaye Gamatié
 ---
 
 
-<div class="avatar" align="left">
+<div class="avatar" align="center">
   <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
 
