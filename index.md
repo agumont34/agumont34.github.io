@@ -26,6 +26,15 @@ I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur d
   </div>
 </div>
 
+<div style="display:flex; gap:20px;">
+  <div style="flex:75%;">
+    Paragraphe gauche (75 %)
+  </div>
+  <div style="flex:25%;">
+    Paragraphe droite (25 %)
+  </div>
+</div>
+
 ### Research interests
 - High-performance embedded systems
 - Computer-aided design
