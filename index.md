@@ -12,7 +12,10 @@ title: Abdoulaye Gamatié
   </div>
 
   <div style="flex:60%;">
-    I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics     department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I currently am deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
+    <p align="justify">
+      I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics     department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. 
+      I currently am deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
+    </p>
   </div>
 </div>
 
