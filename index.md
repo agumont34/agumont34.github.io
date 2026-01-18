@@ -30,6 +30,7 @@ title: Abdoulaye Gamatié
 - Sustainable computing
 
 
+
 ---
 
 ### Recent publications
