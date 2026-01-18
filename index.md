@@ -3,20 +3,6 @@ layout: page
 title: Abdoulaye Gamatié
 ---
 
-<div class="avatar" align="left">
-  <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
-</div>
-<!---* <img class="circular-img" align="left" width=260 src="assets/img/avatar-01.png"/> *--->
-
-I am a PhD student in Physics in the *Observational Cosmology* group at [IFAE](https://www.ifae.es/groups/cosmology/) in Barcelona. I am interested in extracting insights from extensive galaxy survey data to deepen our understanding of the large-scale structure of the Universe. To achieve this, I develop innovative statistical methods and software solutions for data analysis.
-
-My background includes professional and research experience in 3D printing. I am passionate about computer science, and I thoroughly enjoy problem-solving in general.
-
-<br>
-
-
-
-
 <br>
 <div style="display:flex; gap:25px;">
   <div style="flex:30%;">
