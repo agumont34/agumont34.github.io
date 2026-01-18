@@ -28,7 +28,6 @@ title: Abdoulaye Gamatié
 - Computer-aided design
 - Energy-driven computing
 - Sustainable computing
-<br>
 
 
 ---
