@@ -7,6 +7,7 @@ title: Abdoulaye Gamatié
 <div class="avatar" align="center">
   <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
+<br>
 
 <div style="display:flex; gap:20px;">
   <div style="flex:60%;">
