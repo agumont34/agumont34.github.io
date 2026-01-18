@@ -11,11 +11,11 @@ I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur d
 [LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
 
 <div style="display:flex; gap:20px;">
-  <div style="flex:70%;">
+  <div style="flex:60%;">
     I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur de Recherche) in the Microelectronics department of  
 [LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
   </div>
-  <div style="flex:20%;">
+  <div style="flex:30%;">
 <b>Contact information:</b>
 <br>
 LIRMM -- UMR 5506 - CC477
