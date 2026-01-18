@@ -31,8 +31,7 @@ title: Abdoulaye Gamatié
 
 
 ---
-
-<h2> Recent publications </h2>
+<h3> Recent publications </h3>
 
 
 ---
