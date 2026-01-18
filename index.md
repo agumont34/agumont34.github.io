@@ -3,7 +3,7 @@ layout: page
 title: Abdoulaye Gamatié
 ---
 
-
+<br>
 <div style="display:flex; gap:20px;">
   <div style="flex:30%;">
     <div class="avatar" align="left">
@@ -15,6 +15,15 @@ title: Abdoulaye Gamatié
     I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics     department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I currently am deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
   </div>
 </div>
+
+
+### Research interests
+- High-performance embedded systems
+- Computer-aided design
+- Energy-driven computing
+- Sustainable computing
+
+### Recent publications
 
 
 ---
@@ -34,13 +43,3 @@ Email: first.last@lirmm.fr (without accent in last)
   <img width=70 img src="/assets/img/CNRS-logo.jpeg"/>
   <img width=90 img src="/assets/img/UM-logo.png"/>
 </p>
-
----
-
-
-### Research interests
-- High-performance embedded systems
-- Computer-aided design
-- Energy-driven computing
-- Sustainable computing
-
