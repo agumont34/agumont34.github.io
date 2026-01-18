@@ -7,9 +7,6 @@ layout: page
   <img class="profile-img" src="assets/img/avatar-01.png" width="240" />
 </div>
 
-I am currently a Senior Researcher at [CNRS](http://www.cnrs.fr/en) (Directeur de Recherche) in the Microelectronics department of  
-[LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
-
 <div style="display:flex; gap:20px;">
   <div style="flex:60%;">
     I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics     department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. I currently am deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
