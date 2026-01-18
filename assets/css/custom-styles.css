@@ -16,6 +16,44 @@ max-width: 1600px;
 }
 }
 
+
+.two-columns {
+  display: flex;
+  gap: 20px;
+}
+
+.two-columns .left {
+  flex: 0 0 75%;
+}
+
+.two-columns .right {
+  flex: 0 0 25%;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .two-columns {
+    flex-direction: column;
+  }
+
+  .two-columns .left,
+  .two-columns .right {
+    flex: 1 1 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .side-by-side {
   display: flex;
   align-items: flex-start;
