@@ -11,7 +11,7 @@ layout: page
 I am currently a **Senior Researcher** at [CNRS](http://www.cnrs.fr/en) (Directeur de Recherche) in the Microelectronics department of  
 [LIRMM](https://www.lirmm.fr/lirmm-en/) (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier), which is a major multi-disciplinary research center located in the South of France. I obtained my PhD degree from Rennes University in 2004. I am Deputy Director of [LIRMM](https://www.lirmm.fr/lirmm-en/).
 
-## Research interests
+### Research interests
 - High-performance embedded systems
 - Computer-aided design
 - Energy-driven computing
