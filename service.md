@@ -3,7 +3,7 @@ layout: page
 title: Community service
 ---
 
-### Journal editorship
+<h3 style="margin-top:2em;"> Journal editorship </h3>
 
 *   [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)](https://ieee-ceda.org/publication/tcad-publication) (Associate Editor since end 2018)
 
@@ -13,7 +13,7 @@ title: Community service
 
 *   [European Journal of Automation (JESA)](https://www.iieta.org/Journals/JESA) (Guest Editor, 2011)
 
-### TPC membership and events organization
+<h3 style="margin-top:2em;"> TPC membership and events organization </h3>
 
 *   [DATE'2024](https://www.date-conference.com), [DATE'2022](https://www.date-conference.com), [DATE'2021](https://www.date-conference.com), [DATE'2020](https://www.date-conference.com), [DATE'2019](https://www.date-conference.com) -- Design, Automation and Test in Europe, topic D1 (PC member)
 
