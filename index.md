@@ -20,13 +20,14 @@ title: Abdoulaye Gamatié
   </div>
 </div>
 
-<h3 style="margin-top:1em;"> Research interests </h3>
+<h3 style="margin-top:2em;"> Research interests </h3>
 - High-performance embedded systems
 - Computer-aided design
 - Energy-driven computing
 - Sustainable computing
 
-<h3 style="margin-top:1em;"> Recent publications </h3>
+
+<h3 style="margin-top:2em;"> Recent publications </h3>
 
 **Abdoulaye Gamatié**, Yuyang Wang and Diego Adrian Valdez Duran. **"Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI".** *IEEE Transactions on Computers* – [TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta), In press, pp. 1–14, 2024. DOI: [10.1109/TC.2024.3500377](https://doi.org/10.1109/TC.2024.3500377) [[PDF]](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)
 
