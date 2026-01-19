@@ -51,7 +51,7 @@ Email: first.last@lirmm.fr (without accent in last)
 </p>
 
 <div class="image-row">
-  <img width=105 src="/assets/img/Lirmm-logo.png"/>
-  <img width=70 src="/assets/img/CNRS-logo.jpeg"/>
-  <img width=90 src="/assets/img/UM-logo.png"/>
+  <img width=105 img src="/assets/img/Lirmm-logo.png"/>
+  <img width=70 img src="/assets/img/CNRS-logo.jpeg"/>
+  <img width=90 img src="/assets/img/UM-logo.png"/>
 </div>
