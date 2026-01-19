@@ -28,7 +28,6 @@ title: Abdoulaye Gamatié
 
 
 <h3 style="margin-top:2em;"> Recent publications </h3>
-
 **Abdoulaye Gamatié**, Yuyang Wang and Diego Adrian Valdez Duran. **"Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI".** *IEEE Transactions on Computers* – [TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta), In press, pp. 1–14, 2024. DOI: [10.1109/TC.2024.3500377](https://doi.org/10.1109/TC.2024.3500377) [[PDF]](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)
 
 **Abdoulaye Gamatié**, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert. **"A model-based approach to addressing energy demand in sustainable urban systems".** *Sustainable Computing: Informatics and Systems* – [SUSCOM](https://www.computer.org/csdl/journal/su), vol. 37, 2023. DOI: [10.1016/j.suscom.2022.100844](https://doi.org/10.1016/j.suscom.2022.100844) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755)
