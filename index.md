@@ -3,6 +3,28 @@ layout: page
 title: Abdoulaye Gamatié
 ---
 
+
+<div class="home-intro">
+  <div class="home-photo">
+    <img src="assets/img/avatar-01.png" alt="Profile photo" />
+  </div>
+
+  <div class="home-text">
+    <p>
+      I am currently a <strong>Senior Researcher</strong> at CNRS in the
+      Microelectronics department of LIRMM. My research focuses on
+      processor architectures, energy-efficient systems, and explainable AI.
+    </p>
+
+    <p>
+      I am a member of the Adaptive Computing (ADAC) team.
+    </p>
+  </div>
+</div>
+
+
+
+
 <br>
 <div style="display:flex; gap:25px;">
   <div style="flex:30%;">
