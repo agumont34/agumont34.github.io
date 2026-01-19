@@ -37,7 +37,7 @@ max-width: 1400px;
 
 .image-row {
   display: flex;
-  gap: 12px;            /* espace entre les images */
+  gap: 20px;            /* espace entre les images */
 }
 
 .image-row img {
