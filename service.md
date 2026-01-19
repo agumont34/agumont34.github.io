@@ -11,8 +11,6 @@ title: Community service
 
 *   [Springer Journal of Discrete Event Dynamic Systems (J-DEDS)](http://www.springer.com/mathematics/applications/journal/10626) (Guest Editor, 2013)
 
-*   [Springer Journal of Discrete Event Dynamic Systems (J-DEDS)](http://www.springer.com/mathematics/applications/journal/10626) (Guest Editor, 2013)
-
 *   [European Journal of Automation (JESA)](https://www.iieta.org/Journals/JESA) (Guest Editor, 2011)
 
 ### TPC Membership and Events organization
