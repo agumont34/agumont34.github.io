@@ -15,6 +15,8 @@ title: Community service
 
 <h3 style="margin-top:2em;"> TPC membership and events organization </h3>
 
+*   [SCW'2026](https://www.eecone.com/eecone/workshop/scw26.html), [SCW'2025](https://www.eecone.com/eecone/workshop/scw26.html) -- Sustainable Computing Workshop (PC member)
+
 *   [DATE'2024](https://www.date-conference.com), [DATE'2022](https://www.date-conference.com), [DATE'2021](https://www.date-conference.com), [DATE'2020](https://www.date-conference.com), [DATE'2019](https://www.date-conference.com) -- Design, Automation and Test in Europe, topic D1 (PC member)
 
 *   [EMSOFT'2017](http://www.esweek.org/emsoft), [EMSOFT'2012](http://www.esweek.org/), [EMSOFT'2010](http://ptolemy.eecs.berkeley.edu/conferences/10/emsoft10) -- IEEE/ACM International Conference on Embedded Software (PC member)
