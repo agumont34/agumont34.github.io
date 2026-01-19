@@ -6,7 +6,7 @@ title: Abdoulaye Gamatié
 
 <div class="home-intro">
   <div class="home-photo">
-    <img src="assets/img/avatar-01.png" alt="Profile photo" />
+    <img src="assets/img/avatar-01.png" alt="Profile photo"  width="270"/>
   </div>
 
   <div class="home-text">
