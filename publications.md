@@ -10,6 +10,10 @@ title: Publications
 <h3 style="margin-top:2em;"> Peer reviewed journals </h3>
 <h4>International journals</h4>
 
+*   Ismael Samaye, Gilles Sassatelli and Abdoulaye Gamatié. **"Formal Modeling and Analysis of Small-scale Data Centers Integrating Renewable Energy using Timed Automata."**, *[IEEE Transactions on Sustainable Computing](https://www.computer.org/csdl/journal/su)* - IEEE TSUSC, vol. 8, num. 1, DOI [https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150](https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150), 2025.
+
+*   Ismael Samaye, Georges Ouffoué and Abdoulaye Gamatié. **"Life Cycle Assessment of Edge Data Centers: Case Study in Presence of Renewable Energy and Refurbished Servers."**, *[ACM Journal on Computing and Sustainable Societies](https://dl.acm.org/journal/acmjcss)* - JCSS, DOI [https://doi.org/10.1145/3724127](https://doi.org/10.1145/3724127), 2025.
+
 * Abdoulaye Gamatié, Yuyang Wang and Diego Adrian Valdez Duran. **'Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI.'**, *[IEEE Transactions on Computers - TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta)*, In press, pp.1-14., DOI Bookmark: 10.1109/TC.2024.3500377, 2024. [[PDF](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)]
 
 * Abdoulaye Gamatié, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert. **'A model-based approach to addressing energy demand in sustainable urban systems.'**, *[Sustainable Computing : Informatics and Systems - SUSCOM](https://www.computer.org/csdl/journal/su)*, vol. 37, https://doi.org/10.1016/j.suscom.2022.100844, 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755)]
@@ -136,6 +140,12 @@ title: Publications
 
   
 <h4>International conferences and workshops</h4>
+
+*   Ismael Samaye and Abdoulaye Gamatié. **'Design and Optimization of Solar-Powered Embedded Systems with Uppaal Stratego'**, *[Design, Automation and Test in Europe Conference - (DATE'26)](https://www.date-conference.com)*, Verona, Italy, Avril 2026.
+
+*   Kazuki Okazawa, Hiroki Nishikawa, Dafang Zhao, Ittetsu Taniguchi, Takao Onoye, Marcos De Melo da Silva and Abdoulaye Gamatié. **'Carbon-Neutral Computing at the Edge: Scalable Greedy-LP Optimization of Green Data Centers'**, *[18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)](https://mcsoc-forum.org/site/)*, Singapore, Décembre 2025.
+
+*   Gabriel Hautreux, Abdoulaye Gamatié, and Gilles Sassatelli. **'Run-time Energy-Efficiency Optimization for AI and HPC Workloads'**, *[Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops '25)](https://supercomputing.org)*. ACM, New York, NY, USA, 1970–1979. [https://doi.org/10.1145/3731599.3767560](https://doi.org/10.1145/3731599.3767560)
 
 *   Maxime Mirka, Maxime France-Pillois, Gilles Sassatelli, Abdoulaye Gamatié. **'A Generative AI for Heterogeneous Network-on-Chip Design Space Pruning.'**, *[Design, Automation and Test in Europe Conference - (DATE'22)](https://www.date-conference.com)*, March 2022, Antwerp, Belgium. [[PDF](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03475912/document)]
 
@@ -287,6 +297,8 @@ title: Publications
 *   Abdoulaye Gamatié, Thierry Gautier and Paul Le Guernic. **'Conception Synchrone d'Applications Avioniques par Raffinement de Modèles'**, *[13th International Conference on Real-time Systems - RTS'2005](http://www.birp.com/rts2005)*, Paris - France, April&nbsp;2005.
 
 <h4>Position paper and posters</h4>
+
+*   Kazuki Okazawa, Hiroki Nishikawa, Dafang Zhao, Ittetsu Taniguchi, Takao Onoye, Marcos De Melo da Silva, Abdoulaye Gamatié. **'A Scalable Two-Step Approach to Optimize Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing'**, in *[DAC'2025]([https://www.date-conference.com](https://archive.dac.com/about/conference-archive/62nd-dac-2025.html)*, WiP Poster, San Francisco, CA, USA, Juin 2025.
 
 *   Ismael Samaye, Paul Leloup, Gilles Sassatelli and Abdoulaye Gamatié. **'Energy-efficient Hardware Reuse for Sustainable Data Centres'**, Workshop on Ecodesign and circular economy of Electronic Systems (Eco-ES) during *[DATE'2023](https://www.date-conference.com)*, Antwerp, Belgium, April 2023.
 
