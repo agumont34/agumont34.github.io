@@ -11,13 +11,11 @@ title: Abdoulaye Gamatié
 
   <div class="home-text">
     <p>
-      I am currently a <strong>Senior Researcher</strong> at CNRS in the
-      Microelectronics department of LIRMM. My research focuses on
-      processor architectures, energy-efficient systems, and explainable AI.
+      I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. 
     </p>
 
     <p>
-      I am a member of the Adaptive Computing (ADAC) team.
+      I am member of the <a href="https://www.lirmm.fr/teams-en/ADAC-en/">ADAC</a> (Adaptive Computing) research group, and deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
     </p>
   </div>
 </div>
