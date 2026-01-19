@@ -141,11 +141,11 @@ title: Publications
   
 <h4>International conferences and workshops</h4>
 
-*   Ismael Samaye and Abdoulaye Gamatié. **'Design and Optimization of Solar-Powered Embedded Systems with Uppaal Stratego'**, *[Design, Automation and Test in Europe Conference - (DATE'26)](https://www.date-conference.com)*, Verona, Italy, Avril 2026.
+*   Ismael Samaye and Abdoulaye Gamatié. **'Design and Optimization of Solar-Powered Embedded Systems with Uppaal Stratego'**, *[Design, Automation and Test in Europe Conference - (DATE'26)](https://www.date-conference.com)*, Verona, Italy, April 2026.
 
-*   Kazuki Okazawa, Hiroki Nishikawa, Dafang Zhao, Ittetsu Taniguchi, Takao Onoye, Marcos De Melo da Silva and Abdoulaye Gamatié. **'Carbon-Neutral Computing at the Edge: Scalable Greedy-LP Optimization of Green Data Centers'**, *[18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)](https://mcsoc-forum.org/site/)*, Singapore, Décembre 2025.
+*   Kazuki Okazawa, Hiroki Nishikawa, Dafang Zhao, Ittetsu Taniguchi, Takao Onoye, Marcos De Melo da Silva and Abdoulaye Gamatié. **'Carbon-Neutral Computing at the Edge: Scalable Greedy-LP Optimization of Green Data Centers'**, *[18th IEEE International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)](https://mcsoc-forum.org/site/)*, Singapore, Décember 2025.
 
-*   Gabriel Hautreux, Abdoulaye Gamatié, and Gilles Sassatelli. **'Run-time Energy-Efficiency Optimization for AI and HPC Workloads'**, *[Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops '25)](https://supercomputing.org)*. ACM, New York, NY, USA, 1970–1979. [https://doi.org/10.1145/3731599.3767560](https://doi.org/10.1145/3731599.3767560)
+*   Gabriel Hautreux, Abdoulaye Gamatié, and Gilles Sassatelli. **'Run-time Energy-Efficiency Optimization for AI and HPC Workloads'**, *[Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops '25)](https://supercomputing.org)*. ACM, New York, NY, USA, 1970–1979. [https://doi.org/10.1145/3731599.3767560](https://doi.org/10.1145/3731599.3767560), 2025.
 
 *   Maxime Mirka, Maxime France-Pillois, Gilles Sassatelli, Abdoulaye Gamatié. **'A Generative AI for Heterogeneous Network-on-Chip Design Space Pruning.'**, *[Design, Automation and Test in Europe Conference - (DATE'22)](https://www.date-conference.com)*, March 2022, Antwerp, Belgium. [[PDF](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03475912/document)]
 
