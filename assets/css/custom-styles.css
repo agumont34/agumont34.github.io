@@ -47,8 +47,8 @@ max-width: 1400px;
 }
 
 .home-photo img {
-  max-width: 240px;
-  border-radius: 60%;   /* remove if you want a square photo */
+  max-width: 220px;
+  border-radius: 50%;   /* remove if you want a square photo */
   height: auto;
 }
 
