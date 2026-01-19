@@ -16,9 +16,7 @@ max-width: 1400px;
 }
 }
 
-
-
-
+/*
 .side-by-side {
   display: flex;
   align-items: flex-start;
@@ -35,7 +33,17 @@ max-width: 1400px;
     flex-direction: column;
   }
 }
+*/
 
+.image-row {
+  display: flex;
+  gap: 12px;            /* espace entre les images */
+}
+
+.image-row img {
+  max-width: 100%;
+  height: auto;
+}
 
 
 
