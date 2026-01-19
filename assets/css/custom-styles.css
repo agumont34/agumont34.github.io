@@ -33,18 +33,17 @@ max-width: 1400px;
     flex-direction: column;
   }
 }
-*/
 
 .image-row {
   display: flex;
-  gap: 20px;            /* espace entre les images */
+  gap: 20px;           
 }
 
 .image-row img {
   max-width: 100%;
   height: auto;
 }
-
+*/
 
 
 .home-intro {
