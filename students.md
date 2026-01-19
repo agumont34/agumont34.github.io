@@ -3,7 +3,7 @@ layout: page
 title: Students
 ---
 
-### PhD students
+<h3 style="margin-top:2em;"> PhD students </h3>
 
 *   Gabriel Hautreux (since 2024, Université de Montpellier)
 
@@ -39,7 +39,8 @@ title: Students
 
 *   [Huafeng Yu](http://sites.google.com/site/huafengyu) (graduated in 2008, Université de Lille 1) - *[A MARTE-Based Reactive Model for Data-Parallel Intensive Processing: Transformation Toward the Synchronous Model](http://tel.archives-ouvertes.fr/docs/00/49/72/48/PDF/huafengyu_thesis.pdf)*
 
-### Postdoctorate fellows
+
+<h3 style="margin-top:2em;"> Postdoctorate fellows </h3>
 
 *   [Maxime France-Pillois](https://www.inf.ed.ac.uk/people/staff/Maxime_France-Pillois.html) (September 2020 - 2022, LIRMM). Now Postdoctoral Fellow at Institute for Computing Systems Architecture, School of Informatics, University of Edinburgh - Scottland.
 
