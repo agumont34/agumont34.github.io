@@ -48,10 +48,8 @@ LIRMM -- UMR 5506 - CC477
 Phone: +33 4 67 14 98 28 / Fax: +33 4 67 41 85 00
 <br>
 Email: first.last@lirmm.fr (without accent in last)
-</p>
-
-<div class="image-row">
+<br>
   <img width=105 img src="/assets/img/Lirmm-logo.png"/>
   <img width=70 img src="/assets/img/CNRS-logo.jpeg"/>
-  <img width=90 img src="/assets/img/UM-logo.png"/>
-</div>
+  <img width=90 img src="/assets/img/UM-logo.png"/>  
+</p>
