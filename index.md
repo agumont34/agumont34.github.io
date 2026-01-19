@@ -6,7 +6,7 @@ title: Abdoulaye Gamatié
 
 <div class="home-intro">
   <div class="home-photo">
-    <img src="assets/img/avatar-01.png" alt="Profile photo"  width="270"/>
+    <img src="assets/img/avatar-01.png" alt="Profile photo">
   </div>
 
   <div class="home-text">
@@ -20,25 +20,6 @@ title: Abdoulaye Gamatié
   </div>
 </div>
 
-
-
-
-<br>
-<div style="display:flex; gap:25px;">
-  <div style="flex:30%;">
-    <div class="avatar" align="left">
-      <img class="profile-img" src="assets/img/avatar-01.png" width="270" />
-  </div>
-  </div>
-
-  <div style="flex:60%;">
-    <p align="justify">
-      I am currently a Senior Researcher at <a href="http://www.cnrs.fr/en">CNRS</a> (Directeur de Recherche) in the Microelectronics department of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a> (Laboratory of Computer Science, Robotics and Microelectronics of Montpellier). I obtained my PhD degree from Rennes University in 2004. 
-	<br>
-		I am member of the <a href="https://www.lirmm.fr/teams-en/ADAC-en/">ADAC</a> (Adaptive Computing) research group, and deputy director of <a href="https://www.lirmm.fr/lirmm-en/">LIRMM</a>.
-    </p>
-  </div>
-</div>
 
 ---
 
