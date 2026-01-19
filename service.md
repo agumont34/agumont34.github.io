@@ -13,7 +13,7 @@ title: Community service
 
 *   [European Journal of Automation (JESA)](https://www.iieta.org/Journals/JESA) (Guest Editor, 2011)
 
-### TPC Membership and Events organization
+### TPC membership and events organization
 
 *   [DATE'2024](https://www.date-conference.com), [DATE'2022](https://www.date-conference.com), [DATE'2021](https://www.date-conference.com), [DATE'2020](https://www.date-conference.com), [DATE'2019](https://www.date-conference.com) -- Design, Automation and Test in Europe, topic D1 (PC member)
 
