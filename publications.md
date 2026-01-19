@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Also available on DBLP, HAL of Google-Scholar
+subtitle: Also available on [DBLP](https://dblp.org/pid/g/AbdoulayeGamatie.html), [HAL](https://cv.hal.science/abdoulaye-gamatie) of [Google-Scholar](https://scholar.google.com/citations?user=I5W5hKUAAAAJ&hl=en).
 ---
 
 
