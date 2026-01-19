@@ -8,16 +8,6 @@ subtitle: Also available on DBLP, HAL of Google-Scholar
 <h3 style="margin-top:2em;"> Peer reviewed journals </h3>
 <h4>International journals</h4>
 
-Of course, here is the Markdown source code for the publication list. You can copy and paste this directly into your webpage's source file.
-
-code
-Markdown
-
-download
-
-content_copy
-
-expand_less
 *   Abdoulaye Gamatié, Yuyang Wang and Diego Adrian Valdez Duran. **'Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI.'**, *[IEEE Transactions on Computers - TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta)*, In press, pp.1-14., DOI Bookmark: 10.1109/TC.2024.3500377, 2024. [[PDF](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)]
 
 *   Abdoulaye Gamatié, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert. **'A model-based approach to addressing energy demand in sustainable urban systems.'**, *[Sustainable Computing : Informatics and Systems - SUSCOM](https://www.computer.org/csdl/journal/su)*, vol. 37, https://doi.org/10.1016/j.suscom.2022.100844, 2023. [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755)]
