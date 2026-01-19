@@ -32,7 +32,7 @@ Abdoulaye Gamatié, Yuyang Wang and Diego Adrian Valdez Duran. **"Uncovering the
 
 Abdoulaye Gamatié, Thomas Leduc, Daniel Siret, Gilles Sassatelli and Michel Robert. **"A model-based approach to addressing energy demand in sustainable urban systems".** *Sustainable Computing: Informatics and Systems* – [SUSCOM](https://www.computer.org/csdl/journal/su), vol. 37, 2023. DOI: [10.1016/j.suscom.2022.100844](https://doi.org/10.1016/j.suscom.2022.100844) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S2210537922001755)
 
-Marcos De Melo da Silva, Abdoulaye Gamatié, Gilles Sassatelli, Michael Poss and Michel Robert. **"Optimization of Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing".** *IEEE Transactions on Sustainable Computing* – [IEEE TSUSC](https://www.computer.org/csdl/journal/su), vol. 8, no. 1, March 2023.  DOI: [10.1109/TSUSC.2022.3197090](https://doi.org/10.1109/TSUSC.2022.3197090) [[PDF]](https://ieeexplore.ieee.org/document/9851957). ** TSUSC Best Paper Award Winner 2023** ([Award link](https://www.computer.org/publications/best-paper-award-winners)) 
+Marcos De Melo da Silva, Abdoulaye Gamatié, Gilles Sassatelli, Michael Poss and Michel Robert. **"Optimization of Data and Energy Migrations in Mini Data Centers for Carbon-Neutral Computing".** *IEEE Transactions on Sustainable Computing* – [IEEE TSUSC](https://www.computer.org/csdl/journal/su), vol. 8, no. 1, March 2023.  DOI: [10.1109/TSUSC.2022.3197090](https://doi.org/10.1109/TSUSC.2022.3197090) [[PDF]](https://ieeexplore.ieee.org/document/9851957). **TSUSC Best Paper Award Winner 2023** ([Award link](https://www.computer.org/publications/best-paper-award-winners)) 
 
 
 <br>
