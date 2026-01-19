@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <p align="center">
-  Also available on [DBLP](https://dblp.org/pid/g/AbdoulayeGamatie.html), [HAL](https://cv.hal.science/abdoulaye-gamatie) of [Google-Scholar](https://scholar.google.com/citations?user=I5W5hKUAAAAJ&hl=en).
+  Also available on *[DBLP](https://dblp.org/pid/g/AbdoulayeGamatie.html)*, *[HAL](https://cv.hal.science/abdoulaye-gamatie)* of *[Google-Scholar](https://scholar.google.com/citations?user=I5W5hKUAAAAJ&hl=en)*.
 </p>
 
 <h3 style="margin-top:2em;"> Peer reviewed journals </h3>
