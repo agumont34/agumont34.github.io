@@ -20,11 +20,11 @@ author: A. Gamatié
 ###############################################
 
 navbar-links:
-  Research: "research"
+  #Research: "research"
   Publications: "publications"
   Service: "service"
   Students: "students"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
