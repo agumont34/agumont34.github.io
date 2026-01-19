@@ -20,6 +20,7 @@ title: Abdoulaye Gamatié
   </div>
 </div>
 
+<br>
 
 ---
 
@@ -29,6 +30,7 @@ title: Abdoulaye Gamatié
 - Energy-driven computing
 - Sustainable computing
 
+<br>
 
 ---
 <h3> Recent publications </h3>
