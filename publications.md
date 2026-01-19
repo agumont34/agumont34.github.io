@@ -77,3 +77,34 @@ subtitle: Also available on DBLP, HAL of Google-Scholar
 *   Abdoulaye Gamatié, Thierry Gautier, Paul Le Guernic and Jean-Pierre Talpin. **'Polychronous Design of Embedded Real-Time Applications'**, *[ACM Transactions on Software Engineering and Methodology (TOSEM), vol. 16, n. 2](http://portal.acm.org/toc.cfm?id=1217295&idx=J790&type=issue&coll=ACM&dl=ACM&part=transaction&WantType=transaction&title=ACM%20Transactions%20on%20Software%20Engineering%20and%20Methodology%20%28TOSEM%29&CFID=21995207&CFTOKEN=13348644)* &copy; ACM Press, April 2007. [[PDF](http://portal.acm.org/citation.cfm?doid=1217295.1217298)]
 
 *   Abdoulaye Gamatié, Thierry Gautier and Paul Le Guernic. **'Synchronous Design of Avionic Applications based on Model Refinements'**, *[Journal of Embedded Computing (JEC), vol. 2, n. 3-4 / 2006](https://commerce.metapress.com/content/r187357w41471402/resource-secured/?target=fulltext.pdf&sid=knv4csuskaj2jo55ps01oo3g&sh=iospress.metapress.com)* &copy; IOS Press, 2008. [[PDF](http://iospress.metapress.com/content/r187357w41471402/?p=9e36aefdeb8c47b4a7dbc17b30b28669&pi=1)]
+
+
+<h4>Journals in French</h4>
+
+*   Abdoulaye Gamatié, Lionel Torres. **'Introduction à la conception conjointe matériel/logiciel- Une vision générale'**, *[Techniques de l'Ingénieur](https://www.techniques-ingenieur.fr)*, Référence H8450-v1, 2017, [[PDF](https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/systemes-embarques-42588210/introduction-a-la-conception-conjointe-materiel-logiciel-h8450)]
+
+*   Adolf Abdallah, Abdoulaye Gamatié, Jean-Luc Dekeyser. **'Modélisation UML/MARTE de SoC et analyse temporelle basée sur l’approche synchrone'**, numéro spécial Sympa'09, *[Technique et Science Informatiques](http://tsi.revuesonline.com)*, vol. 30, 2011, &copy; Lavoisier. [[PDF](http://tsi.revuesonline.com/article.jsp?articleId=16828)]
+
+<h3 style="margin-top:2em;"> Books and Chapterss </h3>
+<h4>Authored book and edited issues/proceedings</h4>
+
+*   Abdoulaye Gamatié (editor). **'Computing in Research and Development in Africa: Benefits, Trends, Challenges and Solutions'**, *[Springer](http://www.springer.com/engineering/production+engineering/book/978-3-319-08238-7), 2015. ISBN: 978-3-319-08239-4*. [[PDF](http://www.springer.com/engineering/production+engineering/book/978-3-319-08238-7)]
+
+*   Etienne Craye and Abdoulaye Gamatié (editors). **'Special Section on Modeling of Reactive Systems'**, [Journal of Discrete Event Dynamic Systems (DEDS)](http://link.springer.com/journal/10626/23/4/page/1), 2013. DOI: 10.1007/s10626-013-0168-0, Springer. [[PDF](http.springer.com/content/pdf/10.1007%2Fs10626-013-0168-0.pdf)]
+  
+*   Etienne Craye and Abdoulaye Gamatié (editors). **'Modélisation des Systèmes Réactifs'**. Special Issue in French of the [European Journal of Automation (JESA)](http://jesa.revuesonline.com), vol. 45/1-3 - 2011. Lavoisier, November 2011. [[PDF](http://jesa.revuesonline.com/resnum.jsp?editionId=1574)]
+  
+*   Abdoulaye Gamatié. **'Designing Embedded Systems with the SIGNAL Programming Language: Synchronous, Reactive Specification'**, *[Springer - New York](http://www.springer.com/engineering/circuits+%26+systems/book/978-1-4419-0940-4), 2010. ISBN: 978-1-4419-0940-4*. [[Buy on Amazon]](http://www.amazon.com/Designing-Embedded-Systems-Programming-Language/dp/1441909400). (check also the companion [errata](pages/errata.pdf)). [[PDF](http://www.springerlink.com/content/978-1-4419-0940-4)]
+
+
+<h4>Book chapters</h4>
+
+*   Jean-Luc Dekeyser, Abdoulaye Gamatié, Samy Meftali and Imran Rafiq Quadri. **'Models for co-design of heterogeneous dynamically reconfigurable SoCs'**, Bookchapter in [Design Technology for Heterogeneous Embedded Systems](http://www.springer.com/engineering/circuits+%26+systems/book/978-94-007-1124-2), I. O'Connor, G. Nicolescu, C. Piquet (Editors), 2012, &copy; Springer. [[PDF](http://www.springer.com/engineering/circuits+%26+systems/book/978-94-007-1124-2)]
+  
+*   Rosilde Corvino, Abdoulaye Gamatié and Pierre Boulet. **'Design Space Exploration for Efficient Data Intensive Computing on SoCs'**, Bookchapter in [Handbook of Data Intensive Computing](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4614-1414-8), B. Furht and A. Escalante (Editors), 2012, &copy; Springer. [[PDF](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4614-1414-8)]
+
+*   Abdoulaye Gamatié. **'Specification of Data Intensive Applications with Data Dependency and Abstract Clocks'**, Bookchapter in [Handbook of Data Intensive Computing](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4614-1414-8), B. Furht and A. Escalante (Editors), 2012, &copy; Springer. [[PDF](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4614-1414-8)]
+  
+*   Huafeng Yu, Abdoulaye Gamatié, Éric Rutten and Jean-Luc Dekeyser. **'Model Transformations from a Data Parallel Formalism towards Synchronous Languages'**, *Bookchapter in [Embedded Systems Specification and Design Languages](http://www.springer.com/engineering/circuits+&+systems/book/978-1-4020-8296-2) - Selected papers from FDL'07*, Eugenio Villar (Editor), 2008, Springer. [[PDF](http://www.springer.com/engineering/circuits+&+systems/book/978-1-4020-8296-2?detailsPage=toc)]
+  
+*   Jean-Pierre Talpin, David Berner, Sandeep K. Shukla, Paul Le Guernic, Abdoulaye Gamatié and Rajesh Gupta. **'Behavioral type inference for compositional system design'**, *Bookchapter in [Formal Methods and Models for System Design](http://www.springeronline.com/sgw/cda/frontpage/0,11855,5-40109-22-33842829-0,00.html), R. Gupta, P. Le Guernic, S.K. Shukla, J.-P. Talpin (Editors), June 2004.* &copy; Kluwer Academic Publishers. [[PDF](http://www.springer.com/engineering/circuits+&+systems/book/978-1-4020-8051-7)]
