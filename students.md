@@ -19,13 +19,13 @@ title: Students
 
 *   Francesco di Gregorio (graduated in 2021, Université de Montpellier) - *[Exploration of dynamic reconfiguration solutions for improved reliability in DC microgrids](https://tel.archives-ouvertes.fr/tel-03589485)*
 
-*   Arnaud Tournier (2020-2021, Ecole Centrale Nantes)
+*   Arnaud Tournier (PhD program not completed, 2020-2021, Ecole Centrale Nantes)
 
 *   Rabab Bouziane (graduated in 2018, Université de Rennes 1) - *[Software-level Analysis and Optimization to Mitigate the Cost of Write Operations on Non-Volatile Memories](https://ged.univ-rennes1.fr/nuxeo/site/esupversions/1cb06b5b-779d-47b0-8845-e870053c7900?inline)*
 
 *   Pierre-Yves Péneau (graduated in 2018, Université de Montpellier) - *[Intégration de technologies de mémoires non volatiles émergentes dans la hiérarchie de caches pour améliorer l'efficacité énergétique](https://tel.archives-ouvertes.fr/tel-01957250)*
 
-*   Louisa Bessad (2015-2017, Université de Montpellier)
+*   Louisa Bessad (PhD program not completed, 2015-2017, Université de Montpellier)
 
 *   Charles Effiong (graduated in 2017, Université de Montpellier) - *[Exploration of Manycore Systems based on Silicon Integrated Communication Networks](https://tel.archives-ouvertes.fr/tel-01944111)*
 
