@@ -5,7 +5,7 @@ title: Community service
 
 <h3 style="margin-top:2em;"> Journal editorship </h3>
 
-*   [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)](https://ieee-ceda.org/publication/tcad-publication) (Associate Editor since end 2018)
+*   [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)](https://ieee-ceda.org/publication/tcad-publication) (Area Editor since 2025, Associate Editor from 2018 to 2025)
 
 *   [ACM Transactions on Embedded Computing (ACM TECS)](http://acmtecs.acm.org) (Associate Editor, from 2013 to 2020)
 
