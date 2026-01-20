@@ -5,11 +5,13 @@ title: Students
 
 <h3 style="margin-top:2em;"> PhD students </h3>
 
+*   Clément Brichard (since 2025, Université de Montpellier)
+  
 *   Gabriel Hautreux (since 2024, Université de Montpellier)
 
 *   Justin Chikhaoui (since 2023, Université de Montpellier)
 
-*   Ismael Samaye (since 2022, Université de Montpellier)
+*   Ismael Samaye (graduated in 2025, Université de Montpellier) - *[Modélisation et évaluation d'un concept de mini data center à faible impact environnemental](https://theses.fr/s351339)*
 
 *   Guillaume Devic (graduated in 2021, Université de Montpellier) - *[Étude d'architectures dédiées aux systèmes embarqués intelligents et efficaces en énergie](https://tel.archives-ouvertes.fr/tel-03566849)*
 
