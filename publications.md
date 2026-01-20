@@ -10,9 +10,9 @@ title: Publications
 <h3 style="margin-top:2em;"> Peer reviewed journals </h3>
 <h4>International journals</h4>
 
-*   Ismael Samaye, Gilles Sassatelli and Abdoulaye Gamatié. **"Formal Modeling and Analysis of Small-scale Data Centers Integrating Renewable Energy using Timed Automata."**, *[IEEE Transactions on Sustainable Computing](https://www.computer.org/csdl/journal/su)* - IEEE TSUSC, vol. 8, num. 1, DOI [https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150](https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150), 2025.
+*   Ismael Samaye, Gilles Sassatelli and Abdoulaye Gamatié. **"Formal Modeling and Analysis of Small-scale Data Centers Integrating Renewable Energy using Timed Automata."**, IEEE Transactions on Sustainable Computing - *[TSUSC](https://www.computer.org/csdl/journal/su)*, vol. 8, num. 1, 2025. DOI [https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150](https://doi.ieeecomputersociety.org/10.1109/TSUSC.2025.3645150).
 
-*   Ismael Samaye, Georges Ouffoué and Abdoulaye Gamatié. **"Life Cycle Assessment of Edge Data Centers: Case Study in Presence of Renewable Energy and Refurbished Servers."**, *[ACM Journal on Computing and Sustainable Societies](https://dl.acm.org/journal/acmjcss)* - JCSS, DOI [https://doi.org/10.1145/3724127](https://doi.org/10.1145/3724127), 2025.
+*   Ismael Samaye, Georges Ouffoué and Abdoulaye Gamatié. **"Life Cycle Assessment of Edge Data Centers: Case Study in Presence of Renewable Energy and Refurbished Servers."**, ACM Journal on Computing and Sustainable Societies - *[JCSS](https://dl.acm.org/journal/acmjcss)*, 2025. DOI [https://doi.org/10.1145/3724127](https://doi.org/10.1145/3724127).
 
 * Abdoulaye Gamatié, Yuyang Wang and Diego Adrian Valdez Duran. **'Uncovering the Intricacies and Synergies of Processor Microarchitecture Mechanisms using Explainable AI.'**, *[IEEE Transactions on Computers - TC](https://www.computer.org/csdl/journal/tc/5555/01/10755979/21YkiNGFeta)*, In press, pp.1-14., DOI Bookmark: 10.1109/TC.2024.3500377, 2024. [[PDF](https://hal-lirmm.ccsd.cnrs.fr/lirmm-04820631v1)]
 
