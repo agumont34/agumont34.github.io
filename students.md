@@ -17,7 +17,7 @@ title: Students
 
 *   Maxime Mirka (graduated in 2021, Université de Montpellier) - *[Techniques d’apprentissage pour le contrôle adaptatif multi-niveaux du calcul distribué](https://tel.archives-ouvertes.fr/tel-03480748)*
 
-*   Francesco di Gregorio (graduated in 2021, Université de Montpellier) - *[Exploration of dynamic refiguration solutions for improved reliability in DC microgrids](https://tel.archives-ouvertes.fr/tel-03589485)*
+*   Francesco di Gregorio (graduated in 2021, Université de Montpellier) - *[Exploration of dynamic reconfiguration solutions for improved reliability in DC microgrids](https://tel.archives-ouvertes.fr/tel-03589485)*
 
 *   Arnaud Tournier (2020-2021, Ecole Centrale Nantes)
 
